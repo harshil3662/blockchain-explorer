@@ -1,0 +1,16 @@
+.links{
+    background-color: grey;
+    padding: 1em;
+    text-align: center;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
